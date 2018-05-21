@@ -1,5 +1,5 @@
 package videojuego;
-
+// 21/05/2018
 public class Venusiano extends Extraterrestre {
 
     private int cabezas;
