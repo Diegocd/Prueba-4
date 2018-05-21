@@ -1,5 +1,5 @@
 package videojuego;
-
+//Jesús Diego Cruz Díaz
 public class Venusiano extends Extraterrestre {
 
     private int cabezas;
