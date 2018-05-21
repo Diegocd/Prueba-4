@@ -72,5 +72,11 @@ public class Selenita extends Extraterrestre implements DominarPlaneta {
      */
     
     public void controlarRecursos(String planeta) {
+	System.out.println("Controlando los recursos del planeta:  " + planeta);
     }
+
+	public void destruirRecursos(String planeta) {
+        System.out.println("Destruyendo los recursos del planeta:  " + planeta);
+    }
+
 }
